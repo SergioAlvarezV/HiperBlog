@@ -6,3 +6,5 @@ Se me olvido decir mi nombre o presentarme :
 Me llamo Sergio Andres Alvarez vargas Tengo 16 años Naci el 13/01/2008 en Bogota, Colombia
 
 Mido 1.71 cm peso 50kg 
+
+Estoy Creando un BLogPost con la tecnologia de git esto se va a guardar, y voy a cambiar a otra version
