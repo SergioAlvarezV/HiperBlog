@@ -10,3 +10,5 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas Practicas
 * Las ideas locas de mi Profesor 
 * Las personalidades Multiples de Freddy
+
+blogpost.html
