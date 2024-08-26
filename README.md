@@ -11,4 +11,4 @@ En este curso vemos de todo:
 * Las ideas locas de mi Profesor 
 * Las personalidades Multiples de Freddy
 
-blogpost.html
+[Dale Click(blogpost.html)]
