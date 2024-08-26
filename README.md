@@ -11,4 +11,4 @@ En este curso vemos de todo:
 * Las ideas locas de mi Profesor 
 * Las personalidades Multiples de Freddy
 
-https://sergioalvarezv.github.io/HiperBlog.github.io/
+<ul>https://sergioalvarezv.github.io/HiperBlog.github.io/blogpost.html</ul>
